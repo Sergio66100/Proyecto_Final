@@ -195,12 +195,8 @@ npm run dev
 
 ## 🚧 Funcionalidades pendientes
 
-- [ ] Historial de pedidos para el cliente
-- [ ] Panel de administración (gestión de productos y pedidos)
-- [ ] Estados del pedido en tiempo real (preparando → listo → entregado)
 - [ ] Versión responsive completa para móvil
 - [ ] Recuperación de contraseña por email
-- [ ] Paginación en el historial de pedidos
 
 ---
 
